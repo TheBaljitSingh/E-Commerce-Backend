@@ -14,7 +14,7 @@ function Footer() {
       </div>
       <div className='w-3/5 text-center  mt-28 '>
         
-        <p className='text-sm'>&copy; 2024 Baljit Singh. All rights reserved.</p>
+        <p className='text-sm'>&copy; 2024 Baljit Singh - MarketMe. All rights reserved.</p>
       </div>
       <div className='w-1/5'>
         <h4 className='text-lg mb-4'>Follow Us</h4>
